@@ -1,4 +1,4 @@
-# es6_template
+# Binary Gap
 
 Node JS app template using Yarn.
 
